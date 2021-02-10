@@ -1010,6 +1010,32 @@
          "tilecount":80,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":2449,
+         "image":"Interiors_free_32x32.png",
+         "imageheight":1792,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Interiors_free_32x32",
+         "spacing":0,
+         "tilecount":896,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":10,
+         "firstgid":3345,
+         "image":"Tileset_32x32_2.png",
+         "imageheight":320,
+         "imagewidth":320,
+         "margin":0,
+         "name":"Tileset_32x32_2",
+         "spacing":0,
+         "tilecount":100,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
