@@ -1,0 +1,14 @@
+{ "columns":32,
+ "image":"logos_different.png",
+ "imageheight":1048,
+ "imagewidth":1048,
+ "margin":0,
+ "name":"logos_different",
+ "spacing":0,
+ "tilecount":1024,
+ "tiledversion":"1.4.3",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}
