@@ -1,0 +1,14 @@
+{ "columns":62,
+ "image":"Hokus_quadratisch_transparent.png",
+ "imageheight":1985,
+ "imagewidth":1985,
+ "margin":0,
+ "name":"Hokus_quadratisch_transparent",
+ "spacing":0,
+ "tilecount":3844,
+ "tiledversion":"1.4.3",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}

@@ -1,0 +1,14 @@
+{ "columns":5,
+ "image":"..\/images\/beer-3804654_19202.png",
+ "imageheight":93,
+ "imagewidth":160,
+ "margin":0,
+ "name":"beer-3804654_19202",
+ "spacing":0,
+ "tilecount":10,
+ "tiledversion":"1.4.3",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}
