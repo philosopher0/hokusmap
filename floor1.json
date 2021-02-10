@@ -919,12 +919,30 @@
          "tilewidth":32
         }, 
         {
+         "columns":32,
          "firstgid":2449,
-         "source":"logos_different.json"
+         "image":"logos_different.png",
+         "imageheight":1048,
+         "imagewidth":1048,
+         "margin":0,
+         "name":"logos_different",
+         "spacing":0,
+         "tilecount":1024,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":2,
          "firstgid":3473,
-         "source":"COA16small.json"
+         "image":"..\/images\/COA16small.png",
+         "imageheight":94,
+         "imagewidth":64,
+         "margin":0,
+         "name":"COA16small",
+         "spacing":0,
+         "tilecount":4,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
