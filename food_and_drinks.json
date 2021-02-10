@@ -1,0 +1,14 @@
+{ "columns":16,
+ "image":"food_and_drinks.png",
+ "imageheight":2048,
+ "imagewidth":512,
+ "margin":0,
+ "name":"food_and_drinks",
+ "spacing":0,
+ "tilecount":1024,
+ "tiledversion":"1.4.3",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}
