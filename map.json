@@ -163,7 +163,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=5qap5aO4i9A"
+                 "value":"https:\/\/www.youtube.com\/watch?v=5qap5aO4i9A.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
