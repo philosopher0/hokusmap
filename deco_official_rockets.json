@@ -1,0 +1,14 @@
+{ "columns":8,
+ "image":"..\/..\/..\/..\/Downloads\/deco_official_rockets.png",
+ "imageheight":320,
+ "imagewidth":256,
+ "margin":0,
+ "name":"deco_official_rockets",
+ "spacing":0,
+ "tilecount":80,
+ "tiledversion":"1.4.3",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}
